@@ -1,0 +1,4 @@
+2018-02-01 22:05:35,713 INFO  - Checking for migrations (HiveMQ version 3.3.2)
+2018-02-01 22:05:35,725 INFO  - Skipping migration because no meta file and no persistence folder is present, assuming new HiveMQ installation
+2018-02-01 22:05:35,729 INFO  - Write metadata file: MetaInformation{hivemqVersion='3.3.2', clientSessionPersistenceVersion='030300', queuedMessagesPersistenceVersion='030300', subscriptionPersistenceVersion='030200', incomingMessageFlowPersistenceVersion='030100', outgoingMessageFlowPersistenceVersion='030300', retainedMessagesPersistenceVersion='030300', publishPayloadPersistenceVersion='null', clientSessionPersistenceMode=FILE, queuedMessagesPersistenceMode=FILE, subscriptionPersistenceMode=FILE, incomingMessageFlowPersistenceMode=IN_MEMORY, outgoingMessageFlowPersistenceMode=FILE, retainedMessagesPersistenceMode=FILE, publishPayloadPersistenceMode=null}
+2018-02-01 22:05:35,729 INFO  - Finished migration
